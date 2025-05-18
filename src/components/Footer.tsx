@@ -56,7 +56,7 @@ export default function Footer() {
                 <a href="#contact" className="text-gray-400 hover:text-ficogreen transition-colors">Contact</a>
               </li>
               <li>
-                <a href="#" className="text-gray-400 hover:text-ficogreen transition-colors">Admin Login</a>
+                <a href="/admin/login" className="text-gray-400 hover:text-ficogreen transition-colors">Admin Login</a>
               </li>
             </ul>
           </div>
